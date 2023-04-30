@@ -10,3 +10,10 @@
     Satisfatoriamente
 
 Codigo para el projecto de Tesis de Wolfang Torres y Felipe Esteves
+
+
+Nombre Oficial
+--------------
+
+PlasticRec
+
